@@ -209,8 +209,8 @@ function game (){
 	}
 
 
-	if(p1X > 1050){
-		p1X = 1050
+	if(p1X > 1450){
+		p1X = 1450
 	}
 
 	if(p1X <= 30){
